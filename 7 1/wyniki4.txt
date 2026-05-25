@@ -1,0 +1,4 @@
+c)
+liczba wyst¹pieñ sumy cyfr równej 35: 4
+najwiêksza suma cyfr w wierszu: 88
+liczba wierszy,w których wyst¹pi³a najwiêksza suma cyfr w wierszu: 2

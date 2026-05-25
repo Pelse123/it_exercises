@@ -1,0 +1,3 @@
+b)
+Liczba z najwieksza suma cyfr: 187869866
+Liczba z najmniejsza suma cyfr: 10010

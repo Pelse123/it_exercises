@@ -1,0 +1,3 @@
+b)
+Najwiêksza: 29881
+Najmniejsza: 73

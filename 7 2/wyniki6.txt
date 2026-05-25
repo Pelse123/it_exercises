@@ -1,0 +1,4 @@
+c)
+Liczba liczb:49
+Najwieksza:1133357
+Najmniejsza:24

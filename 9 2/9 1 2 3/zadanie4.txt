@@ -1,0 +1,4 @@
+Krotnosc: 31
+Najczestsze luki:
+149
+11

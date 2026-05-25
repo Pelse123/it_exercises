@@ -1,0 +1,3 @@
+c)
+Liczba napisow z samymi 0: 32
+Liczba napisow z samymi 1: 50

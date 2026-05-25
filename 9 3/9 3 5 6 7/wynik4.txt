@@ -1,0 +1,2 @@
+Numery dzialek: 28 32 45 
+Maksymalny bok: 12

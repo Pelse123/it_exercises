@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+print("a^b",a**b)
+print("b^a",b**a)
+print("Dzielenie całkowite a przez b",a//b)
+print("Pierwiastek kwadratowy z a*b",(a*b)**(1/2))

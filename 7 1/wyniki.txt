@@ -1,0 +1,3 @@
+d)
+Liczby: 49999 i 1
+Roznica: 49998

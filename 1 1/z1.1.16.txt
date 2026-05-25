@@ -1,0 +1,16 @@
+Uzupełnij wartości logiczne dla poniższej tabeli. Odpowiedzi udziel wysyłając zdjęcie z uzupełnioną tabelą lub dodając w odpowiedzi tabelę używając tego wzoru (kopiując poniższy schemat do swojej odpowiedzi i uzupełniając odpowiednie cyfry 1 lub 0).
+
+| A   | B   | C   | D   | ~A  | A /\ B | A v C  | (A /\ ~B) v (B /\ C /\ D)  | ~A v (B /\ ~C /\ D)  |  (A v ~C) /\ (B v D)  |
+| --- | --- | --- | --- | --- | ------ | ------ | -------------------------- | -------------------- | --------------------- |
+| 0   | 0   | 0   | 0   |  1  |   0    |   0    |             0              |          1           |           0           |
+| 0   | 0   | 0   | 1   |  1  |   0    |   0    |             0              |          1           |           1           |
+| 0   | 0   | 1   | 0   |  1  |   0    |   1    |             0              |          1           |           0           |
+| 1   | 1   | 1   | 1   |  0  |   1    |   1    |             1              |          0           |           1           |
+
+Uwaga: To zadanie nie jest sprawdzane automatycznie przez asystenta AI - Darka. Ze względu na specyfikę zadania lub nietypową formę odpowiedzi, Twoje rozwiązanie sprawdzi nauczyciel.
+
+
+
+~negacja (zaprzeczenie nie)
+/\ koniunkcja (i)
+v alternatywa (lub)
